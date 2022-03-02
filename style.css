@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+ 
+.container{
+    border: 5px solid rgb(3, 2, 2);
+    padding: 20px;
+    background-color: #f2f2f2;
+    margin: 12px;
+    margin-top: 29px;
+    padding-left: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+input[type="text"]{
+    width: 60%;
+    padding: 12px;
+    margin: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+input[type="submit"]{
+    width: 10%;
+    background-color: #4daea1;
+    padding: 20px;
+    margin-left: 650px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="email"]{
+    width: 60%;
+    padding: 12px;
+    margin: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+
+input[type="radio"]{
+   
+    padding: 12px;
+    margin: 8px;
+
+    
+
+}
+
+select{
+    width: 60%;
+    padding: 12px;
+    margin: 8px;
+
+}
+
+input[type="date"]{
+    width: 60%;
+    padding: 12px;
+    margin: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+input[type="password"]{
+    width: 60%;
+    padding: 12px;
+    margin: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+textarea{
+    width: 60%;
+    padding: 12px;
+    margin: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
